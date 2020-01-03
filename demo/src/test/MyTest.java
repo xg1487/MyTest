@@ -7,6 +7,7 @@ public class MyTest {
 
 		System.out.println("²âÊÔÉÏ´«ÊÇ·ñ³É¹,hahaxixi¦");
 
+		int a=1;
 	}
 
 }
